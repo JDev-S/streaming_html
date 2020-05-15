@@ -26488,3 +26488,1722 @@
 2020/05/15 13:23:06 [debug] 14036#12752: select event: fd:540 wr:0
 2020/05/15 13:23:06 [debug] 14036#12752: select event: fd:544 wr:0
 2020/05/15 13:23:06 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:07 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:07 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:08 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:08 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:09 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:09 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:10 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:10 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:11 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:11 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:12 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:12 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:13 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:13 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:14 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:14 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:15 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:15 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:16 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:16 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:17 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:17 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:18 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:18 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:19 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:19 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:20 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:20 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:21 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:21 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:22 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:22 [debug] 14036#15128: hls: cleanup path='/nginx/temp/livestream' playlen=30000
+2020/05/15 13:23:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:22 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:23 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:23 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:24 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:24 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:25 [debug] 14036#12752: timer delta: 502
+2020/05/15 13:23:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:25 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:26 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:26 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:27 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:27 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:28 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:28 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:29 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:29 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:29 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:29 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:30 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:30 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:30 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:30 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:30 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:30 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:30 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:30 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:30 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:30 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:30 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:30 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:31 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:31 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:31 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:31 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:31 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:31 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:31 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:31 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:31 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:31 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:31 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:31 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:32 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:32 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:32 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:32 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:32 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:32 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:32 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:32 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:32 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:32 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:32 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:32 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:33 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:33 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:33 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:33 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:33 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:33 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:33 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:33 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:33 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:33 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:33 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:33 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:34 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:34 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:34 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:34 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:34 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:34 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:34 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:34 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:34 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:34 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:34 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:34 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:35 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:35 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:35 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:35 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:35 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:35 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:35 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:35 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:35 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:35 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:35 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:35 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:36 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:36 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:36 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:36 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:36 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:36 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:36 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:36 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:36 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:36 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:36 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:36 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:37 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:37 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:37 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:37 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:37 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:37 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:37 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:37 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:37 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:37 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:37 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:37 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:38 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:38 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:38 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:38 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:38 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:38 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:38 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:38 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:38 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:38 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:38 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:38 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:39 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:39 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:39 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:39 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:39 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:39 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:39 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:39 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:39 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:39 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:39 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:39 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:40 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:40 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:40 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:40 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:40 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:40 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:40 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:40 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:40 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:40 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:40 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:40 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:41 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:41 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:41 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:41 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:41 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:41 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:41 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:41 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:41 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:41 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:41 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:41 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:42 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:42 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:42 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:42 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:42 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:42 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:42 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:42 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:42 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:42 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:42 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:42 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:43 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:43 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:43 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:43 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:43 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:43 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:43 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:43 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:43 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:43 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:43 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:43 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:44 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:44 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:44 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:44 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:44 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:44 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:44 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:44 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:44 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:44 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:44 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:44 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:45 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:45 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:45 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:45 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:45 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:45 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:45 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:45 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:45 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:45 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:45 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:45 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:46 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:46 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:46 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:46 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:46 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:46 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:46 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:46 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:46 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:46 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:46 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:46 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:47 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:47 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:47 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:47 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:47 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:47 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:47 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:47 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:47 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:47 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:47 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:47 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:48 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:48 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:48 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:48 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:48 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:48 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:48 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:48 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:48 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:48 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:48 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:48 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:49 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:49 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:49 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:49 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:49 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:49 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:49 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:49 [debug] 14036#12752: timer delta: 502
+2020/05/15 13:23:49 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:49 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:49 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:49 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:50 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:50 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:50 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:50 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:50 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:50 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:50 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:50 [debug] 14036#12752: timer delta: 502
+2020/05/15 13:23:50 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:50 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:50 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:50 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:51 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:51 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:51 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:51 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:51 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:51 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:51 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:51 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:51 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:51 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:51 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:51 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:52 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:52 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:52 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:52 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:52 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:52 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:52 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:52 [debug] 14036#12752: timer delta: 502
+2020/05/15 13:23:52 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:52 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:52 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:52 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:53 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:53 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:53 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:53 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:53 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:53 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:53 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:53 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:53 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:53 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:53 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:53 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:54 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:54 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:54 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:54 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:54 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:54 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:54 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:54 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:54 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:54 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:54 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:54 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:55 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:55 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:55 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:55 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:55 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:55 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:55 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:55 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:55 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:55 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:55 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:55 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:56 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:56 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:56 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:56 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:56 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:56 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:56 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:56 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:56 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:56 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:56 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:56 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:57 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:57 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:57 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:57 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:57 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:57 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:57 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:57 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:57 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:57 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:57 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:57 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:58 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:58 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:58 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:58 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:58 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:58 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:58 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:58 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:23:58 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:58 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:58 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:58 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:59 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:59 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:59 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:59 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:59 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:59 [debug] 14036#12752: select timer: 500
+2020/05/15 13:23:59 [debug] 14036#12752: select ready 0
+2020/05/15 13:23:59 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:23:59 [debug] 14036#12752: worker cycle
+2020/05/15 13:23:59 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:23:59 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:23:59 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:00 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:00 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:00 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:00 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:00 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:00 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:00 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:00 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:00 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:00 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:00 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:00 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:01 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:01 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:01 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:01 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:01 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:01 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:01 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:01 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:01 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:01 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:01 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:01 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:02 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:02 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:02 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:02 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:02 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:02 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:02 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:02 [debug] 14036#12752: timer delta: 502
+2020/05/15 13:24:02 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:02 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:02 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:02 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:03 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:03 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:03 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:03 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:03 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:03 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:03 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:03 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:03 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:03 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:03 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:03 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:04 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:04 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:04 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:04 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:04 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:04 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:04 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:04 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:04 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:04 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:04 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:04 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:05 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:05 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:05 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:05 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:05 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:05 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:05 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:05 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:05 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:05 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:05 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:05 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:06 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:06 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:06 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:06 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:06 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:06 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:06 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:06 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:06 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:06 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:06 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:06 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:07 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:07 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:08 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:08 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:09 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:09 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:10 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:10 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:11 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:11 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:12 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:12 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:13 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:13 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:14 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:14 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:15 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:15 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:16 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:16 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:17 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:17 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:18 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:18 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:19 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:19 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:20 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:20 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:21 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:21 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:22 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:22 [debug] 14036#15128: hls: cleanup path='/nginx/temp/livestream' playlen=30000
+2020/05/15 13:24:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:22 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:23 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:23 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:24 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:24 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:25 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:25 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:26 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:26 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:27 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:27 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:28 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:28 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:29 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:29 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:29 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:29 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:30 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:30 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:30 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:30 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:30 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:30 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:30 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:30 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:30 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:30 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:30 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:30 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:31 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:31 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:31 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:31 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:31 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:31 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:31 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:31 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:31 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:31 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:31 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:31 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:32 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:32 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:32 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:32 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:32 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:32 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:32 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:32 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:32 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:32 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:32 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:32 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:33 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:33 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:33 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:33 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:33 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:33 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:33 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:33 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:33 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:33 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:33 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:33 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:34 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:34 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:34 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:34 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:34 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:34 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:34 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:34 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:34 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:34 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:34 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:34 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:35 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:35 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:35 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:35 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:35 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:35 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:35 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:35 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:35 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:35 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:35 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:35 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:36 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:36 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:36 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:36 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:36 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:36 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:36 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:36 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:36 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:36 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:36 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:36 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:37 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:37 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:37 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:37 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:37 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:37 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:37 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:37 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:37 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:37 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:37 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:37 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:38 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:38 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:38 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:38 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:38 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:38 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:38 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:38 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:38 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:38 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:38 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:38 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:39 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:39 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:39 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:39 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:39 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:39 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:39 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:39 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:39 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:39 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:39 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:39 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:40 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:40 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:40 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:40 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:40 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:40 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:40 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:40 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:40 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:40 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:40 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:40 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:41 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:41 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:41 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:41 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:41 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:41 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:41 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:41 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:41 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:41 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:41 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:41 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:42 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:42 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:42 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:42 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:42 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:42 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:42 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:42 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:42 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:42 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:42 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:42 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:43 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:43 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:43 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:43 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:43 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:43 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:43 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:43 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:43 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:43 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:43 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:43 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:44 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:44 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:44 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:44 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:44 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:44 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:44 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:44 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:44 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:44 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:44 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:44 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:45 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:45 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:45 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:45 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:45 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:45 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:45 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:45 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:45 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:45 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:45 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:45 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:46 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:46 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:46 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:46 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:46 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:46 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:46 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:46 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:46 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:46 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:46 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:46 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:47 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:47 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:47 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:47 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:47 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:47 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:47 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:47 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:47 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:47 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:47 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:47 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:48 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:48 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:48 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:48 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:48 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:48 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:48 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:48 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:48 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:48 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:48 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:48 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:49 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:49 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:49 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:49 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:49 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:49 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:49 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:49 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:49 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:49 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:49 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:49 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:50 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:50 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:50 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:50 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:50 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:50 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:50 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:50 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:50 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:50 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:50 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:50 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:51 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:51 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:51 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:51 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:51 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:51 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:51 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:51 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:51 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:51 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:51 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:51 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:52 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:52 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:52 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:52 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:52 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:52 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:52 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:52 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:52 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:52 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:52 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:52 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:53 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:53 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:53 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:53 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:53 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:53 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:53 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:53 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:53 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:53 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:53 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:53 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:54 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:54 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:54 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:54 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:54 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:54 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:54 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:54 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:54 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:54 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:54 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:54 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:55 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:55 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:55 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:55 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:55 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:55 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:55 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:55 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:55 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:55 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:55 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:55 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:56 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:56 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:56 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:56 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:56 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:56 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:56 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:56 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:56 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:56 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:56 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:56 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:57 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:57 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:57 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:57 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:57 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:57 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:57 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:57 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:57 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:57 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:57 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:57 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:58 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:58 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:58 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:58 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:58 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:58 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:58 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:58 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:24:58 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:58 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:58 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:58 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:59 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:59 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:59 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:59 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:59 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:59 [debug] 14036#12752: select timer: 500
+2020/05/15 13:24:59 [debug] 14036#12752: select ready 0
+2020/05/15 13:24:59 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:24:59 [debug] 14036#12752: worker cycle
+2020/05/15 13:24:59 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:24:59 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:24:59 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:00 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:00 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:00 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:00 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:00 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:00 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:00 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:00 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:00 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:00 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:00 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:00 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:01 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:01 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:01 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:01 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:01 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:01 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:01 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:01 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:01 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:01 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:01 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:01 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:02 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:02 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:02 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:02 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:02 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:02 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:02 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:02 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:02 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:02 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:02 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:02 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:03 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:03 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:03 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:03 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:03 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:03 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:03 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:03 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:03 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:03 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:03 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:03 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:04 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:04 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:04 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:04 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:04 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:04 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:04 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:04 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:04 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:04 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:04 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:04 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:05 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:05 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:05 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:05 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:05 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:05 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:05 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:05 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:05 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:05 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:05 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:05 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:06 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:06 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:06 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:06 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:06 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:06 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:06 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:06 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:06 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:06 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:06 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:06 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:07 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:07 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:07 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:07 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:07 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:07 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:07 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:08 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:08 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:08 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:08 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:08 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:08 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:08 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:09 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:09 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:09 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:09 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:09 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:09 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:09 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:10 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:10 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:10 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:10 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:10 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:10 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:10 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:11 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:11 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:11 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:11 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:11 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:11 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:11 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:12 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:12 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:12 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:12 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:12 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:12 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:12 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:13 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:13 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:13 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:13 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:13 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:13 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:13 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:14 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:14 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:14 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:14 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:14 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:14 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:14 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:15 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:15 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:15 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:15 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:15 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:15 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:15 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:16 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:16 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:16 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:16 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:16 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:16 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:16 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:17 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:17 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:17 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:17 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:17 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:17 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:17 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:18 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:18 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:18 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:18 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:18 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:18 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:18 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:19 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:19 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:19 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:19 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:19 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:19 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:19 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:20 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:20 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:20 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:20 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:20 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:20 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:20 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:21 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:21 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:21 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:21 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:21 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:21 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:21 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:21 [debug] 14036#15128: hls: cleanup path='/nginx/temp/livestream' playlen=30000
+2020/05/15 13:25:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:22 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:22 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:22 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:22 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:22 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:22 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:22 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:23 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:23 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:23 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:23 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:23 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:23 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:23 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:24 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:24 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:24 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:24 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:24 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:24 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:24 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:25 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:25 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:25 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:25 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:25 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:25 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:25 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:26 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:26 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:26 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:26 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:26 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:26 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:26 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:27 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:27 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:27 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:27 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:27 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:27 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:27 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:28 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:28 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:28 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:28 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:28 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:28 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:28 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:29 [debug] 14036#12752: timer delta: 501
+2020/05/15 13:25:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:29 [debug] 14036#12752: select timer: 500
+2020/05/15 13:25:29 [debug] 14036#12752: select ready 0
+2020/05/15 13:25:29 [debug] 14036#12752: timer delta: 500
+2020/05/15 13:25:29 [debug] 14036#12752: worker cycle
+2020/05/15 13:25:29 [debug] 14036#12752: select event: fd:540 wr:0
+2020/05/15 13:25:29 [debug] 14036#12752: select event: fd:544 wr:0
+2020/05/15 13:25:29 [debug] 14036#12752: select timer: 500
