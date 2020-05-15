@@ -1,0 +1,78 @@
+2020/05/15 11:39:11 [emerg] 37460#35528: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:40:46 [emerg] 21828#21388: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:43:14 [emerg] 17592#32920: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:46:31 [emerg] 36248#13904: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:00 [emerg] 25356#27600: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:02 [emerg] 42352#40668: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:03 [emerg] 34488#15100: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:04 [emerg] 2108#28020: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:04 [emerg] 35740#40992: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:48:06 [emerg] 39148#39336: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:50:19 [emerg] 38636#16812: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:50:21 [emerg] 33324#41112: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:50:23 [emerg] 34388#37004: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:50:23 [emerg] 27748#42428: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:50:24 [emerg] 21732#30900: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:51:50 [emerg] 17516#39616: CreateDirectory() "/nginx/temp/temp" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:52:23 [emerg] 32020#2332: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:53:00 [emerg] 31596#2044: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:53:07 [emerg] 7608#34956: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:53:40 [emerg] 23644#18708: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 11:55:14 [emerg] 24560#24240: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 12:01:44 [emerg] 41476#39708: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 12:02:44 [emerg] 21604#36840: CreateDirectory() "/nginx/temp/livestream" failed (3: FormatMessage() error:(15100))
+2020/05/15 12:04:07 [notice] 21544#31076: using the "select" event method
+2020/05/15 12:04:07 [notice] 21544#31076: nginx/1.14.1
+2020/05/15 12:04:07 [info] 21544#31076: OS: 260200 build:9200, "", suite:300, type:1
+2020/05/15 12:04:07 [notice] 21544#31076: start worker processes
+2020/05/15 12:04:07 [notice] 21544#31076: start worker process 11804
+2020/05/15 12:04:07 [notice] 11804#13528: nginx/1.14.1
+2020/05/15 12:04:07 [info] 11804#13528: OS: 260200 build:9200, "", suite:300, type:1
+2020/05/15 12:04:07 [notice] 11804#13528: create thread 14976
+2020/05/15 12:04:07 [notice] 11804#13528: create thread 39512
+2020/05/15 12:04:07 [notice] 11804#13528: create thread 3840
+2020/05/15 12:06:07 [error] 11804#14976: *1 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15100)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:06:07 [error] 11804#14976: *2 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:06:07 [error] 11804#14976: *1 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:06:08 [error] 11804#14976: *1 CreateFile() "E:\servicio_obs_nginx\nginx/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:06:19 [info] 11804#14976: *3 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/05/15 12:06:19 [error] 11804#14976: *1 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:06:19 [error] 11804#14976: *2 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:14:06 [error] 11804#14976: *4 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:15:45 [error] 11804#14976: *6 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:15:45 [error] 11804#14976: *5 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:15:45 [error] 11804#14976: *5 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:15:59 [info] 11804#14976: *7 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/05/15 12:27:45 [error] 11804#14976: *8 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:27:49 [error] 11804#14976: *8 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:27:51 [error] 11804#14976: *8 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:27:53 [error] 11804#14976: *8 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:27:55 [error] 11804#14976: *8 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:28:41 [error] 11804#14976: *9 CreateFile() "E:\servicio_obs_nginx\nginx/html/livesrtream" failed (2: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /livesrtream HTTP/1.1", host: "localhost:8080"
+2020/05/15 12:28:49 [error] 11804#14976: *9 directory index of "E:/temp/livestream/" is forbidden, client: 127.0.0.1, server: , request: "GET /livestream/ HTTP/1.1", host: "localhost:8080"
+2020/05/15 12:28:56 [info] 11804#14976: *10 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/05/15 12:28:56 [info] 11804#14976: *11 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/05/15 12:28:56 [error] 11804#14976: *9 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:28:56 [error] 11804#14976: *9 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 127.0.0.1, server: , request: "GET /history/history.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2020/05/15 12:29:11 [info] 11804#14976: *12 client closed connection while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2020/05/15 12:30:23 [error] 11804#14976: *13 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:31:22 [error] 11804#14976: *15 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080"
+2020/05/15 12:31:23 [error] 11804#14976: *15 CreateFile() "E:\servicio_obs_nginx\nginx/html/favicon.ico" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/livestream/stream.m3u8"
+2020/05/15 12:31:29 [error] 11804#14976: *15 directory index of "E:/temp/livestream/" is forbidden, client: 192.168.0.6, server: , request: "GET /livestream/ HTTP/1.1", host: "192.168.0.6:8080"
+2020/05/15 12:31:34 [info] 11804#14976: *14 client closed connection while waiting for request, client: 192.168.0.6, server: 0.0.0.0:8080
+2020/05/15 12:31:34 [error] 11804#14976: *15 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /history/history.css HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/"
+2020/05/15 12:31:34 [error] 11804#14976: *16 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /history/history.js HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/"
+2020/05/15 12:36:07 [error] 11804#14976: *18 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /history/history.css HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/"
+2020/05/15 12:36:07 [error] 11804#14976: *19 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.js" failed (3: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /history/history.js HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/"
+2020/05/15 12:36:08 [error] 11804#14976: *19 CreateFile() "E:\servicio_obs_nginx\nginx/html/history/history.css" failed (3: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /history/history.css HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8080/"
+2020/05/15 12:37:58 [error] 11804#14976: *20 CreateFile() "E:/temp/livestream/stream.m3u8" failed (2: FormatMessage() error:(15105)), client: 192.168.0.6, server: , request: "GET /livestream/stream.m3u8 HTTP/1.1", host: "192.168.0.6:8080", referrer: "http://192.168.0.6:8000/livestream"
+2020/05/15 12:42:38 [notice] 39276#14940: using the "select" event method
+2020/05/15 12:42:38 [notice] 39276#14940: nginx/1.14.1
+2020/05/15 12:42:38 [info] 39276#14940: OS: 260200 build:9200, "", suite:300, type:1
+2020/05/15 12:42:38 [notice] 39276#14940: start worker processes
+2020/05/15 12:42:38 [notice] 39276#14940: start worker process 16332
+2020/05/15 12:42:38 [notice] 16332#12988: nginx/1.14.1
+2020/05/15 12:42:38 [info] 16332#12988: OS: 260200 build:9200, "", suite:300, type:1
+2020/05/15 12:42:38 [notice] 16332#12988: create thread 5004
+2020/05/15 12:42:38 [notice] 16332#12988: create thread 26020
+2020/05/15 12:42:38 [notice] 16332#12988: create thread 11052
